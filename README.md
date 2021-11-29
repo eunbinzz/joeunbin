@@ -1,3 +1,3 @@
-# resume
+# joeunbin
 
-https://eunbinzz.github.io/resume/
+https://eunbinzz.github.io/joeunbin/
